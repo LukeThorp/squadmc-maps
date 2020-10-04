@@ -103,7 +103,7 @@ const MAPDATA = [
     locations: [],
     extra: {
       scale: [1, 1, 1],
-      levels: [39, 44],
+      levels: [39, 440],
       minimap: [
         [-1315,  -1545],
         [1690, 1460],
